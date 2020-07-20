@@ -12,6 +12,13 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        DLR <br>
+        Bienvenidos al Sistema de Ventas <br>
+        1. Facturacion <br>
+        2. Compras <br>
+        3. Datos cliente <br>
+        4. Datos Productos<br>
+        5. Datos Proveedor<br>
+        6. Salir  
     </body>
 </html>
